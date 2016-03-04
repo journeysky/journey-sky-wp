@@ -1,7 +1,7 @@
 # Week0-WP
 自己拖延症很严重啊，拖到现在一起写，以后还是要日积月累！
 
-.Web从0开始之0
+#.Web从0开始之0
 题目描述：WEB页面的HTML，CSS，JS客户端是可以查看的哦～你能在平台源码中找到FLAG么？
 1.火狐firebug查找hctf；
 2.chrome F12查找hctf。
